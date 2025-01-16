@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672483596043",
+    "project_id": "opetlocator",
+    "storage_bucket": "opetlocator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672483596043:android:d431a3c4012ccdf14fb40e",
+        "android_client_info": {
+          "package_name": "com.google.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQKs2fcBAhpBVB56XR6nMVa0QO3c80pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
